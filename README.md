@@ -1,5 +1,6 @@
 <h1 align="center">Colbert AI</h1>
 <p align="center">
+  <img src="https://img.shields.io/github/stars/NextTechLabAP/Colbert-AI?style=flat-square">
   <a href="https://github.com/NextTechLabAP/Colbert-AI/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/NextTechLabAP/Colbert-AI?style=flat-square"></a>
   <a href="https://github.com/NextTechLabAP/Colbert-AI/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/NextTechLabAP/Colbert-AI?style=flat-square"></a>
   <a href="https://github.com/NextTechLabAP/Colbert-AI/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/NextTechLabAP/Colbert-AI?style=flat-square"></a>
